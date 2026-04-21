@@ -2,3 +2,5 @@
 .venv
 
 sample/*
+outputs
+outputs/*
